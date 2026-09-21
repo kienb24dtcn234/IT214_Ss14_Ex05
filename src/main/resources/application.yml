@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: combo-saga-orchestration
+
+logging:
+  level:
+    com.storex.combo: INFO
